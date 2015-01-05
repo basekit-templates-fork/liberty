@@ -1,6 +1,6 @@
 {
 	"name":"Liberty",
-	"thumbnail":"wedding-day.png",
+	"thumbnail":"liberty.png",
     "tags": { "en": ["veterans", "veterans day", "american", "america"] },
     "pageTypes":["home"],
     "templateType":"standard",
@@ -141,7 +141,7 @@
             "font-weight": "700",
             "line-height": "80px",
             "color": "@color-swatch1",
-            "letter-spacing": "inherit"
+            "letter-spacing": "7px"
         }
     }
 }
