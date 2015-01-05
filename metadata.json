@@ -1,54 +1,54 @@
 {
-	"name":"Wedding Day",
+	"name":"Liberty",
 	"thumbnail":"wedding-day.png",
-    "tags": { "en": ["wedding", "event", "marriage", "wedding day"] },
+    "tags": { "en": ["veterans", "veterans day", "american", "america"] },
     "pageTypes":["home"],
     "templateType":"standard",
     "colorSwatches":
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#9fd0d5",
-            "color3":"#9fd0d5",
+            "color2":"#141B41",
+            "color3":"#141B41",
             "color4":"#333333",
             "color5":"#666666",
-            "color6":"#9fd0d5",
+            "color6":"#141B41",
             "color7":"#ffffff"
         },
         "Swatch 2": {
             "color1":"#ffffff",
-            "color2":"#f1a9c2",
-            "color3":"#f1a9c2",
+            "color2":"#640a00",
+            "color3":"#640a00",
             "color4":"#333333",
             "color5":"#666666",
-            "color6":"#f1a9c2",
+            "color6":"#640a00",
             "color7":"#ffffff"
         },
         "Swatch 3": {
             "color1":"#ffffff",
-            "color2":"#ec907e",
-            "color3":"#ec907e",
+            "color2":"#3F5E5A",
+            "color3":"#3F5E5A",
             "color4":"#333333",
             "color5":"#666666",
-            "color6":"#ec907e",
+            "color6":"#3F5E5A",
             "color7":"#ffffff"
         },
         "Swatch 4": {
             "color1":"#ffffff",
-            "color2":"#fed25d",
-            "color3":"#fed25d",
+            "color2":"#9D8420",
+            "color3":"#9D8420",
             "color4":"#333333",
             "color5":"#666666",
-            "color6":"#fed25d",
+            "color6":"#9D8420",
             "color7":"#ffffff"
         },
         "Swatch 5": {
             "color1":"#ffffff",
-            "color2":"#ff5c5c",
-            "color3":"#ff5c5c",
+            "color2":"#12664F",
+            "color3":"#12664F",
             "color4":"#333333",
             "color5":"#666666",
-            "color6":"#ff5c5c",
+            "color6":"#12664F",
             "color7":"#ffffff"
         }
     },
@@ -57,18 +57,18 @@
         "images/feature-bg.jpg"
     ],
     "fontSwatch": {
-       "title": "Amatic SC / Lobster / Verdana",
+       "title": "Lato",
         "font1": {
-            "font-family": "\"Amatic SC\", \"Lobster\", Verdana, sans-serif",
-            "font-size": "60px",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "36px",
             "font-weight": "700",
             "line-height": "51px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Amatic SC\", \"Lobster\", Verdana, sans-serif",
-            "font-size": "48px",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "32px",
             "font-weight": "700",
             "line-height": "56px",
             "color": "@color-swatch4",
@@ -76,7 +76,7 @@
         },
         "font3": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-            "font-size": "36px",
+            "font-size": "24px",
             "font-weight": "400",
             "line-height": "37px",
             "color": "@color-swatch4",
@@ -84,7 +84,7 @@
         },
         "font4": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-            "font-size": "24px",
+            "font-size": "18px",
             "font-weight": "400",
             "line-height": "30px",
             "color": "@color-swatch4",
@@ -120,8 +120,8 @@
             "background-color-hover": "@color-swatch1"
         },
         "font8": {
-            "font-family": "\"Amatic SC\", \"Lobster\", Verdana, sans-serif",
-            "font-size": "72px",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "42px",
             "font-weight": "700",
             "line-height": "70px",
             "color": "@color-swatch1",
@@ -136,8 +136,8 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Amatic SC\", \"Lobster\", Verdana, sans-serif",
-            "font-size": "90px",
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "40px",
             "font-weight": "700",
             "line-height": "80px",
             "color": "@color-swatch1",
