@@ -1,63 +1,70 @@
 {
-	"name":"Liberty",
-	"thumbnail":"liberty.png",
-    "tags": { "en": ["veterans", "veterans day", "american", "america"] },
-    "pageTypes":["home"],
-    "templateType":"standard",
-    "colorSwatches":
-    {
+    "name": "Liberty",
+    "thumbnail": "liberty.png",
+    "tags": {
+        "en": [
+            "veterans",
+            "veterans day",
+            "american",
+            "america"
+        ]
+    },
+    "pageTypes": [
+        "home"
+    ],
+    "templateType": "standard",
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#141B41",
-            "color3":"#141B41",
-            "color4":"#333333",
-            "color5":"#666666",
-            "color6":"#699DB8",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#141B41",
+            "color3": "#141B41",
+            "color4": "#333333",
+            "color5": "#666666",
+            "color6": "#699DB8",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#640a00",
-            "color3":"#640a00",
-            "color4":"#333333",
-            "color5":"#666666",
-            "color6":"#699DB8",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#640a00",
+            "color3": "#640a00",
+            "color4": "#333333",
+            "color5": "#666666",
+            "color6": "#699DB8",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#3F5E5A",
-            "color3":"#3F5E5A",
-            "color4":"#333333",
-            "color5":"#666666",
-            "color6":"#699DB8",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#3F5E5A",
+            "color3": "#3F5E5A",
+            "color4": "#333333",
+            "color5": "#666666",
+            "color6": "#699DB8",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#9D8420",
-            "color3":"#9D8420",
-            "color4":"#333333",
-            "color5":"#666666",
-            "color6":"#699DB8",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#9D8420",
+            "color3": "#9D8420",
+            "color4": "#333333",
+            "color5": "#666666",
+            "color6": "#699DB8",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#12664F",
-            "color3":"#12664F",
-            "color4":"#333333",
-            "color5":"#666666",
-            "color6":"#699DB8",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#12664F",
+            "color3": "#12664F",
+            "color4": "#333333",
+            "color5": "#666666",
+            "color6": "#699DB8",
+            "color7": "#ffffff"
         }
     },
-
-    "images":[
+    "images": [
         "images/feature-bg.jpg"
     ],
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "36px",
@@ -108,7 +115,7 @@
             "color-hover": "@color-swatch2",
             "background-color": "@color-swatch7",
             "background-color-hover": "@color-swatch7"
-         },
+        },
         "font7": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "18px",
@@ -143,5 +150,6 @@
             "color": "@color-swatch1",
             "letter-spacing": "7px"
         }
-    }
+    },
+    "screenshot": "liberty-screenshot.jpg"
 }
